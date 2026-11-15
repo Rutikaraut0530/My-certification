@@ -1,10 +1,7 @@
-# My---certification-
-My Internship and Professional Course Certifications
+# My-certification-
 🏆 Certifications & Achievements
 
 Welcome to my certifications repository! This repository showcases my professional training, internship experience, and technical learning achievements.
-
-📜 My Certifications
 
 1. Internship Certificate
 
