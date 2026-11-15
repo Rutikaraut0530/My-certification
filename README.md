@@ -1,26 +1,24 @@
 # My-certification-
 🏆 Certifications & Achievements
 
-Welcome to my certifications repository! This repository showcases my professional training, internship experience, and technical learning achievements.
+Welcome to my certifications repository! This repository highlights my internship experience, professional training, and continuous learning journey in the field of Computer Science and Technology.
 
-1. Internship Certificate
+1. 🏥 Internship Certificate – Apollo Hospital
 
 - Organization: Apollo Hospital
 - Category: Internship
-- Certificate: Internship_Certificate.pdf
+- Description: Completed an internship at Apollo Hospital, gaining professional exposure and practical workplace experience while developing communication, teamwork, and problem-solving skills.
+  
 
-2. Data Science Certification
+2. 📊 Data Science Certification
 
 - Category: Data Science
-- Focus: Data Science and Analytics
-- Certificate: Data_Science_Certificate.pdf
+- Description: Completed a Data Science course to develop foundational knowledge of data science concepts, data analysis, and working with data to gain meaningful insights.
 
-3. Front-End Development Certification
+
+3. 💻 Front-End Development Certification
 
 - Category: Front-End Development
-- Focus: Front-End Web Development
-- Certificate: Frontend_Development_Certificate.pdf
-
+- Description: Completed a Front-End Development course, gaining knowledge of website interface development and the fundamentals of creating user-friendly and responsive web experiences.
+  
 ---
-
-These certifications represent my continuous learning and commitment to developing my technical skills.
